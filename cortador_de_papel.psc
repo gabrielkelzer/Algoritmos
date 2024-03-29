@@ -9,7 +9,7 @@ var menu: inteiro
          leia (ob)
          escreval ("Pegue o ", ob," e corte o papel mas antes disso me  diga como você quer cortar ele?")
           escreval  ("MENU")
-          escreval  ("[1 Redondo]")
+          escreval  ("[1] Redondo")
           escreval  ("[2] Quadrado")
           escreval  ("[3] Triangulo")
           escreval  ("[4] Outros ")
